@@ -1,6 +1,6 @@
 ## Overview
 
-An example project to demonstrate:
+An awesome example project to demonstrate:
 
 * how to create a Spring Boot REST API ([article](https://tomgregory.com/building-a-spring-boot-application-in-jenkins/) | [video](https://youtu.be/sCcuUMn1vdM))
 * how to run Spring Boot in Docker and publish to Docker Hub ([article](https://tomgregory.com/building-a-spring-boot-application-in-docker-and-jenkins/) | [video](https://youtu.be/Kc3Vw5vk1Lw))
@@ -45,5 +45,5 @@ An example project to demonstrate:
 
 * get all rides - GET [/ride](http://localhost:8080/ride) to get a list of all the rides
 * get specific ride - GET [/ride/${id}](http://localhost:8080/ride/1) to get a specific ride
-* create ride - POST JSON to [/ride](http://localhost:8080/ride) to create a new ride 
+* create ride - POST JSON to [/ride](http://localhost:8080/ride) to create a new ride
 (see [article](https://tomgregory.com/building-a-spring-boot-application-in-jenkins/#2_Trying_out_our_Spring_Boot_application) for full details)
